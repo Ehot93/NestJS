@@ -1,0 +1,23 @@
+{
+  "name": "nestjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehot93/NestJS_Backend.git"
+  },
+  "author": "Vladislav Dementyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ehot93/NestJS_Backend/issues"
+  },
+  "homepage": "https://github.com/Ehot93/NestJS_Backend#readme",
+  "description": "",
+  "dependencies": {
+    "@nestjs/cli": "^11.0.10",
+    "axios": "^1.12.2"
+  }
+}
